@@ -5,7 +5,7 @@ export const collectionData = {
   name: 'Sneaker Speaker',
   creator: 'Sneaker Speaker Official',
   description:
-    'Sneaker Speaker launched as a fixed set of 10,000 items in mid-2022 and became one of the inspirations for the ERC-721 standard.',
+    'Sneaker Speaker launched as a fixed set of 20 items in mid-2022 and became one of the inspirations for the ERC-721 sneakers.',
   isVerified: true,
   slug:'sneaker-speaker-official',
   banner_image_url: banner,
@@ -16,7 +16,7 @@ export const collectionData = {
   instagram_username: null,
   stats: {
     total_volume: 1,
-    total_supply: 6,
+    total_supply: 20,
     num_owners: 1,
     floor_price: 0.2,
   },
